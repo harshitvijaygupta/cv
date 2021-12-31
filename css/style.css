@@ -9,7 +9,7 @@ hr{
     border-width: 4px;
 }
 li{
-    list-style-type: none;
+    list-style-type: circle;
 }
 h2, h3 {
     color: #07689F;

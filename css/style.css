@@ -1,0 +1,16 @@
+body{
+    background-color: #FAFAFA;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: rgb(190, 189, 189);
+    border-width: 4px;
+}
+li{
+    list-style-type: none;
+}
+h2, h3 {
+    color: #07689F;
+}
